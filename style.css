@@ -1,0 +1,112 @@
+h2 {
+    font-size: 2em;
+    font-weight: bold;
+}
+
+h3 {
+    font-size: 1.4em;
+    font-weight: bold;
+    margin-top: 30px;
+}
+
+h5 {
+    font-size: 1em;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+main {
+    clear: both;
+    overflow: auto;
+}
+
+img {
+    float: right;
+    margin-right: 10%;
+    margin-top: 5px;
+}
+
+#mainArticle {
+    float: left;
+    margin-left: 15%;
+    width: 40%;
+    margin-top: 20px;
+}
+
+
+/* 
+    Header Code
+*/
+
+header {
+    border-bottom: solid lightgray 1px;
+    overflow: auto;
+    padding-bottom: 20px;
+}
+
+h1 {
+    font-size: 3em;
+    font-weight: bolder;
+    color: maroon;
+    float: left;
+    margin-left: 15%;
+    margin-top: 20px;
+    width: 40%;
+}
+
+nav {
+    float: right;
+    margin-right: 10%;
+    margin-top: 17px;
+    margin-left: 19%;
+    width: 16%;
+    
+}
+
+a{
+    color: orangered;
+}
+
+/* 
+    Footer Code
+*/
+
+footer {
+    clear: both;
+    background-color: yellow;
+    overflow: auto;
+    height: 240px;
+}
+
+#contact {
+    float: left;
+    width: 40%;
+    margin-left: 15%;
+    margin-top: 40px;
+}
+
+#sitemap {
+    float: right;
+    margin-right: 10%;
+    margin-top: 40px;
+    margin-left: 19%;
+    width: 16%;
+    overflow: auto;
+   
+}
+
+#contact p:nth-child(1){
+    font-style: italic;
+    font-weight: bold;
+    color: maroon;
+}
+
+#leftSite{
+    float:left;
+    color: orangered;
+}
+
+#rightSite{
+    float: right;
+    color: orangered;
+}
