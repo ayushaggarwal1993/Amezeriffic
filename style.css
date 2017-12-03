@@ -1,3 +1,18 @@
+body{
+    background-color: yellow;
+}
+
+
+
+
+/* 
+    Main Styling Code 
+*/
+
+main{
+    background-color: white;
+}
+
 h2 {
     font-size: 2em;
     font-weight: bold;
@@ -35,13 +50,14 @@ img {
 
 
 /* 
-    Header Code
+    Header Styling Code
 */
 
 header {
     border-bottom: solid lightgray 1px;
     overflow: auto;
     padding-bottom: 20px;
+    background-color: white;
 }
 
 h1 {
@@ -68,14 +84,12 @@ a{
 }
 
 /* 
-    Footer Code
+    Footer Styling Code
 */
 
 footer {
     clear: both;
-    background-color: yellow;
     overflow: auto;
-    height: 240px;
 }
 
 #contact {
